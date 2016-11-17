@@ -14,7 +14,7 @@ Displays important alert messages.
 
 ### Basic usage
 
-Alert components are non-overlay elements in the page that does not disappear automatically.
+Alert components are non-overlay elements in the page that do not disappear automatically.
 
 ::: demo Alert provides 4 types of themes defined by `type`, whose default value is `info`.
 
@@ -128,7 +128,7 @@ Description includes a message with more detailed information.
 
 ### With icon and description
 
-::: demo At last, this is an example with both icon and description.
+::: demo At last, this is an example with both icon and a description.
 
 ```html
 <template>
