@@ -4,7 +4,7 @@ A number or status mark on buttons and icons.
 
 ### Basic usage
 
-Displays the amount of new messages.
+Displays the quantity of new messages.
 
 :::demo The amount is defined with `value` which accepts `Number` or `String`.
 
@@ -66,7 +66,7 @@ You can customize the max value.
 
 ### Customizations
 
-Displays text content other than numbers.
+Displays text content rather than numbers.
 
 :::demo When `value` is a `String`, it can display customized text.
 
